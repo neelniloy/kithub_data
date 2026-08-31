@@ -143,6 +143,12 @@
     "logo": "https://i.imgur.com/bWROuob.png",
     "name": "Atlético Tucumán"
   },
+  "augsburg": {
+    "is_popular": true,
+    "league": "bundesliga",
+    "logo": "https://dlskitshub.com/wp-content/uploads/FC-Augsburg-Logo-PNG-DLS.png",
+    "name": "FC Augsburg"
+  },
   "australia": {
     "is_popular": true,
     "league": "international",
@@ -173,35 +179,11 @@
     "logo": "https://i.imgur.com/FHjcAfr.png",
     "name": "FC Barcelona"
   },
-  "barcelone": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Barcelone"
-  },
   "bayer_leverkusen": {
     "is_popular": true,
     "league": "bundesliga",
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-Bayer-Leverkusen-Logo-PNG.png",
     "name": "Bayer 04 Leverkusen"
-  },
-  "bayern_gk1": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Bayern Gk1"
-  },
-  "bayern_gk2": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Bayern Gk2"
-  },
-  "bayern_gk3": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Bayern Gk3"
   },
   "bayern_munich": {
     "is_popular": true,
@@ -279,13 +261,7 @@
     "is_popular": true,
     "league": "premier_league",
     "logo": "https://dlskitshub.com/wp-content/uploads/Brighton-FC-Logo-PNG-DLS.png",
-    "name": "Brighton & Hove Albion"
-  },
-  "bundesliga_bayern": {
-    "is_popular": true,
-    "league": "bundesliga",
-    "logo": "",
-    "name": "Bundesliga Bayern"
+    "name": "Brighton \u0026 Hove Albion"
   },
   "ca_osasuna": {
     "is_popular": false,
@@ -395,59 +371,23 @@
     "logo": "https://i.imgur.com/ErnH3k8.png",
     "name": "Club América"
   },
+  "club_tijuana": {
+    "is_popular": false,
+    "league": "liga_mx",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1v2l9m1534764835.png",
+    "name": "Club Tijuana"
+  },
   "colombia": {
     "is_popular": true,
     "league": "international",
-    "logo": "https://kitdls.net/wp-content/uploads/2024/10/Logo-Colombia-DLS-512-x-512.png",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
     "name": "Colombia"
-  },
-  "colombia_gk1": {
-    "is_popular": true,
-    "league": "international",
-    "logo": "",
-    "name": "Colombia Gk1"
-  },
-  "colombia_gk2": {
-    "is_popular": true,
-    "league": "international",
-    "logo": "",
-    "name": "Colombia Gk2"
-  },
-  "colombia_gk3": {
-    "is_popular": true,
-    "league": "international",
-    "logo": "",
-    "name": "Colombia Gk3"
   },
   "corinthians": {
     "is_popular": false,
     "league": "brasileirao",
     "logo": "https://kitdls.net/wp-content/uploads/2024/10/Logo-Corinthians-DLS-512-x-512.png",
     "name": "SC Corinthians"
-  },
-  "corinthians_four": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Corinthians Four"
-  },
-  "corinthians_gk1": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Corinthians Gk1"
-  },
-  "corinthians_gk2": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Corinthians Gk2"
-  },
-  "corinthians_gk3": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Corinthians Gk3"
   },
   "costa_rica": {
     "is_popular": true,
@@ -515,6 +455,12 @@
     "logo": "https://i.imgur.com/lBO6cLY.png",
     "name": "Ecuador"
   },
+  "egypt": {
+    "is_popular": true,
+    "league": "international",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y6187l1591990422.png",
+    "name": "Egypt"
+  },
   "eintracht_frankfurt": {
     "is_popular": true,
     "league": "bundesliga",
@@ -545,12 +491,6 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/Everton-FC-Logo-PNG-DLS.png",
     "name": "Everton FC"
   },
-  "fc_augsburg": {
-    "is_popular": true,
-    "league": "bundesliga",
-    "logo": "https://dlskitshub.com/wp-content/uploads/FC-Augsburg-Logo-PNG-DLS.png",
-    "name": "FC Augsburg"
-  },
   "fc_bordeaux": {
     "is_popular": false,
     "league": "others",
@@ -569,29 +509,11 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/FC-Crotone-Kits-Logo-PNG-DLS.png",
     "name": "FC Crotone"
   },
-  "fc_groningen": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Groningen-Logo-PNG.png",
-    "name": "FC Groningen"
-  },
   "fc_metz": {
     "is_popular": false,
     "league": "others",
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Metz-Logo-PNG.png",
     "name": "FC Metz"
-  },
-  "fc_nantes": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Nantes-Logo-PNG.png",
-    "name": "FC Nantes"
-  },
-  "fc_twente": {
-    "is_popular": false,
-    "league": "eredivisie",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Twente-Logo-PNG.png",
-    "name": "FC Twente"
   },
   "fc_volendam": {
     "is_popular": false,
@@ -629,6 +551,12 @@
     "logo": "https://i.imgur.com/5N0pbSt.png",
     "name": "France"
   },
+  "freiburg": {
+    "is_popular": true,
+    "league": "bundesliga",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SC-Freiburg-Logo-PNG.png",
+    "name": "SC Freiburg"
+  },
   "fulham": {
     "is_popular": true,
     "league": "premier_league",
@@ -647,17 +575,17 @@
     "logo": "https://i.imgur.com/b5gpl35.png",
     "name": "LA Galaxy"
   },
-  "gemany": {
-    "is_popular": true,
-    "league": "international",
-    "logo": "",
-    "name": "Gemany"
-  },
   "genoa": {
     "is_popular": true,
     "league": "serie_a",
     "logo": "https://imgur.com/m0Zpvx4.png",
     "name": "Genoa CFC"
+  },
+  "georgia": {
+    "is_popular": false,
+    "league": "others",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/34u9711591990400.png",
+    "name": "Georgie"
   },
   "germany": {
     "is_popular": true,
@@ -689,6 +617,12 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/Girona-FC-Logo-PNG-DLS.png",
     "name": "Girona FC"
   },
+  "go_ahead_eagles": {
+    "is_popular": false,
+    "league": "eredivisie",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tyvwuu1473503551.png",
+    "name": "Go Ahead Eagles"
+  },
   "granada_cf": {
     "is_popular": false,
     "league": "others",
@@ -706,6 +640,18 @@
     "league": "bundesliga_2",
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-Greuther-Furth-Logo-PNG.png",
     "name": "SpVgg Greuther Fürth"
+  },
+  "groningen": {
+    "is_popular": false,
+    "league": "eredivisie",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Groningen-Logo-PNG.png",
+    "name": "FC Groningen"
+  },
+  "heerenveen": {
+    "is_popular": false,
+    "league": "eredivisie",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SC-Heerenveen-Logo-PNG.png",
+    "name": "SC Heerenveen"
   },
   "hellas_verona": {
     "is_popular": true,
@@ -743,18 +689,6 @@
     "logo": "https://kitdls.net/wp-content/uploads/2024/10/Logo-Indonesia-DLS-512-x-512.png",
     "name": "Indonesia"
   },
-  "indonesia_gk1": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Indonesia Gk1"
-  },
-  "indonesia_gk3": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Indonesia Gk3"
-  },
   "inter_miami": {
     "is_popular": true,
     "league": "mls",
@@ -788,7 +722,7 @@
   "ittihad_tanger": {
     "is_popular": false,
     "league": "botola_pro_1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfNp4CxObfK1Ojsb4eNGkLxiW3E-qgbSnBw&s",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfNp4CxObfK1Ojsb4eNGkLxiW3E-qgbSnBw\u0026s",
     "name": "Ittihad Tanger"
   },
   "jamshedpur": {
@@ -857,6 +791,12 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-Leeds-United-Logo-PNG.png",
     "name": "Leeds United"
   },
+  "lens": {
+    "is_popular": true,
+    "league": "ligue_1",
+    "logo": "https://imgur.com/VfN7wHH.png",
+    "name": "RC Lens"
+  },
   "leones_negros": {
     "is_popular": false,
     "league": "others",
@@ -880,24 +820,6 @@
     "league": "premier_league",
     "logo": "https://i.imgur.com/wLTNZc0.png",
     "name": "Liverpool FC"
-  },
-  "local_colombia": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Local Colombia"
-  },
-  "local_rb_leipzig": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Local RB Leipzig"
-  },
-  "local_scotland": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Local Scotland"
   },
   "lorient": {
     "is_popular": true,
@@ -953,36 +875,6 @@
     "logo": "https://i.imgur.com/CuW1KM7.png",
     "name": "Olympique de Marseille"
   },
-  "mc": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "MC"
-  },
-  "mc_epl": {
-    "is_popular": true,
-    "league": "premier_league",
-    "logo": "",
-    "name": "MC Epl"
-  },
-  "mc_epl_gk1": {
-    "is_popular": true,
-    "league": "premier_league",
-    "logo": "",
-    "name": "MC Epl Gk1"
-  },
-  "mc_epl_gk2": {
-    "is_popular": true,
-    "league": "premier_league",
-    "logo": "",
-    "name": "MC Epl Gk2"
-  },
-  "mc_epl_gk3": {
-    "is_popular": true,
-    "league": "premier_league",
-    "logo": "",
-    "name": "MC Epl Gk3"
-  },
   "mexico": {
     "is_popular": true,
     "league": "international",
@@ -1025,41 +917,17 @@
     "logo": "https://i.imgur.com/CALpZ28.png",
     "name": "Morocco"
   },
-  "mu": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "MU"
-  },
-  "mu_epl": {
-    "is_popular": true,
-    "league": "premier_league",
-    "logo": "",
-    "name": "MU Epl"
-  },
-  "mu_gk1": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "MU Gk1"
-  },
-  "mu_gk2": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "MU Gk2"
-  },
-  "mu_vodafone": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "MU Vodafone"
-  },
   "mumbai_city": {
     "is_popular": true,
     "league": "indian_super_league",
     "logo": "https://i.imgur.com/uKtSEOb.png",
     "name": "Mumbai City FC"
+  },
+  "nantes": {
+    "is_popular": true,
+    "league": "ligue_1",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Nantes-Logo-PNG.png",
+    "name": "FC Nantes"
   },
   "napoli": {
     "is_popular": true,
@@ -1151,6 +1019,12 @@
     "logo": "https://i.imgur.com/TtsPn0O.png",
     "name": "CF Pachuca"
   },
+  "paderborn": {
+    "is_popular": false,
+    "league": "bundesliga_2",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SC-Paderborn-07-Logo-PNG.png",
+    "name": "SC Paderborn 07"
+  },
   "palermo_fc": {
     "is_popular": true,
     "league": "serie_a",
@@ -1181,12 +1055,6 @@
     "logo": "https://i.imgur.com/2ZRfJkN.png",
     "name": "Persib Bandung"
   },
-  "persib_bandung_gk3": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Persib Bandung Gk3"
-  },
   "persija": {
     "is_popular": false,
     "league": "liga_1_indonesia",
@@ -1216,36 +1084,6 @@
     "league": "international",
     "logo": "https://i.imgur.com/SKDEalY.png",
     "name": "Portugal"
-  },
-  "psg_dls25": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Psg Dls25"
-  },
-  "psg_gk1": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Psg Gk1"
-  },
-  "psg_gk2": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Psg Gk2"
-  },
-  "psg_gk3": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Psg Gk3"
-  },
-  "psg_ligue": {
-    "is_popular": true,
-    "league": "ligue_1",
-    "logo": "",
-    "name": "Psg Ligue"
   },
   "psm": {
     "is_popular": false,
@@ -1294,12 +1132,6 @@
     "league": "bundesliga",
     "logo": "https://i.imgur.com/imKIFsz.png",
     "name": "RB Leipzig"
-  },
-  "rc_lens": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://imgur.com/VfN7wHH.png",
-    "name": "RC Lens"
   },
   "rc_strasbourg_alsace": {
     "is_popular": false,
@@ -1415,29 +1247,17 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SBV-Excelsior-Logo-PNG.png",
     "name": "Sbv Excelsior"
   },
-  "sc_freiburg": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SC-Freiburg-Logo-PNG.png",
-    "name": "SC Freiburg"
-  },
-  "sc_heerenveen": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SC-Heerenveen-Logo-PNG.png",
-    "name": "SC Heerenveen"
-  },
-  "sc_paderborn": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SC-Paderborn-07-Logo-PNG.png",
-    "name": "SC Paderborn"
-  },
   "schalke": {
     "is_popular": true,
     "league": "bundesliga_2",
     "logo": "https://imgur.com/biOvQcg.png",
     "name": "FC Schalke 04"
+  },
+  "scotland": {
+    "is_popular": false,
+    "league": "others",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5kivom1591990036.png",
+    "name": "Local Scotland"
   },
   "seattle_sounders": {
     "is_popular": true,
@@ -1478,7 +1298,7 @@
   "slovakia": {
     "is_popular": true,
     "league": "international",
-    "logo": "",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8b049d1591990022.png",
     "name": "Slovakia"
   },
   "southampton": {
@@ -1529,12 +1349,6 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-VfB-Stuttgart-Logo-PNG.png",
     "name": "VfB Stuttgart"
   },
-  "sv_werder_bremen": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SV-Werder-Bremen-Logo-PNG.png",
-    "name": "SV Werder Bremen"
-  },
   "switzerland": {
     "is_popular": true,
     "league": "international",
@@ -1552,12 +1366,6 @@
     "league": "liga_mx",
     "logo": "https://i.imgur.com/0USYmuh.png",
     "name": "Tigres UANL"
-  },
-  "tijuana": {
-    "is_popular": false,
-    "league": "liga_mx",
-    "logo": "",
-    "name": "Club Tijuana"
   },
   "torino": {
     "is_popular": true,
@@ -1586,8 +1394,14 @@
   "turkey": {
     "is_popular": true,
     "league": "international",
-    "logo": "",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o72p571591990264.png",
     "name": "Turkey"
+  },
+  "twente": {
+    "is_popular": false,
+    "league": "eredivisie",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-FC-Twente-Logo-PNG.png",
+    "name": "FC Twente"
   },
   "udinese_calcio": {
     "is_popular": false,
@@ -1655,16 +1469,10 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-Venezia-FC-Logo-PNG.png",
     "name": "Venezia FC"
   },
-  "vi_t_nam_t_t": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Việt Nam Tết"
-  },
   "vietnam": {
     "is_popular": true,
     "league": "international",
-    "logo": "https://kitdls.net/wp-content/uploads/2023/12/dls-512x512-logo-viet-nam.png",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/i18iu41597944056.png",
     "name": "Vietnam"
   },
   "villarreal": {
@@ -1690,6 +1498,12 @@
     "league": "premier_league",
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-Watford-FC-Logo-PNG.png",
     "name": "Watford FC"
+  },
+  "werder_bremen": {
+    "is_popular": true,
+    "league": "bundesliga",
+    "logo": "https://dlskitshub.com/wp-content/uploads/DLS-SV-Werder-Bremen-Logo-PNG.png",
+    "name": "Werder Bremen"
   },
   "west_ham_united": {
     "is_popular": true,
