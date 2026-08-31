@@ -326,6 +326,11 @@
           "home": [
             "https://i.imgur.com/XnMvhFp.png"
           ]
+        },
+        "2026": {
+          "home": [
+            "https://img.dreamkitsapp.com/kits/al-ahli-saudi-home-2024-dls19.png"
+          ]
         }
       }
     },
@@ -1904,7 +1909,7 @@
       }
     },
     "brighton": {
-      "name": "Brighton \u0026 Hove Albion",
+      "name": "Brighton & Hove Albion",
       "logo": "https://dlskitshub.com/wp-content/uploads/Brighton-FC-Logo-PNG-DLS.png",
       "league": "premier_league",
       "is_popular": true,
@@ -2519,6 +2524,9 @@
         "2026": {
           "away": [
             "https://kitdls.net/wp-content/uploads/2026/02/Colombia-Away-Kit-2026-DLS-26.png"
+          ],
+          "home": [
+            "https://img.dreamkitsapp.com/kits/colombia-home-fifa-world-cup-2026-dls26.png"
           ]
         }
       }
@@ -3150,18 +3158,6 @@
     "equipamento_titular_colombia_512x512": {
       "name": "Equipamento Titular Colombia 512x512",
       "logo": "https://img.dreamkitsapp.com/kits/colombia-home-fifa-world-cup-2026-dls26.png",
-      "league": "others",
-      "seasons": {}
-    },
-    "equipement_domicile_colombia_512x512": {
-      "name": "Equipement Domicile Colombia 512x512",
-      "logo": "https://img.dreamkitsapp.com/kits/colombia-home-fifa-world-cup-2026-dls26.png",
-      "league": "others",
-      "seasons": {}
-    },
-    "escudo_512x512_colombia": {
-      "name": "Escudo 512x512 Colombia",
-      "logo": "https://img.dreamkitsapp.com/shields/colombia-logo-2024.png",
       "league": "others",
       "seasons": {}
     },
@@ -7737,7 +7733,7 @@
     },
     "ittihad_tanger": {
       "name": "Ittihad Tanger",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfNp4CxObfK1Ojsb4eNGkLxiW3E-qgbSnBw\u0026s",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfNp4CxObfK1Ojsb4eNGkLxiW3E-qgbSnBw&s",
       "league": "botola_pro_1",
       "seasons": {
         "2025": {
@@ -8852,7 +8848,8 @@
           ],
           "home": [
             "https://i.ibb.co/d4DWKPq/image.png",
-            "https://img.dreamkitsapp.com/kits/mexico-home-fifa-world-cup-2026-dls26.png"
+            "https://img.dreamkitsapp.com/kits/mexico-home-fifa-world-cup-2026-dls26.png",
+            "https://img.dreamkitsapp.com/kits/mexico-home-2026-dls19.png"
           ],
           "third": [
             "https://i.ibb.co/d4DWKPq/image.png",
@@ -9156,7 +9153,7 @@
             "https://i.imgur.com/3qnFEmW.png"
           ],
           "gk_away": [
-            "URL: https://i.imgur.com/tHnw9yH.png"
+            "https://i.imgur.com/tHnw9yH.png"
           ],
           "gk_home": [
             "https://i.imgur.com/sWmToxd.png"
@@ -10813,7 +10810,8 @@
             "https://kitdls.net/wp-content/uploads/2026/01/Santos-GK3-Kit-2026-27-DLS.png"
           ],
           "home": [
-            "https://i.imgur.com/Sn7SbV5.png"
+            "https://i.imgur.com/Sn7SbV5.png",
+            "https://img.dreamkitsapp.com/kits/santos-home-2023-dls19.png"
           ],
           "third": [
             "https://i.imgur.com/StL1a05.png",
@@ -11280,6 +11278,18 @@
       "league": "others",
       "seasons": {}
     },
+    "slovakia": {
+      "name": "Slovakia",
+      "league": "international",
+      "is_popular": true,
+      "seasons": {
+        "2024": {
+          "home": [
+            "https://img.dreamkitsapp.com/kits/slovakia-home-2024-dls19.png"
+          ]
+        }
+      }
+    },
     "southampton": {
       "name": "Southampton FC",
       "logo": "https://dlskitshub.com/wp-content/uploads/Southampton-FC-Logo-PNG-DLS.png",
@@ -11677,6 +11687,17 @@
         }
       }
     },
+    "tijuana": {
+      "name": "Club Tijuana",
+      "league": "liga_mx",
+      "seasons": {
+        "2025": {
+          "home": [
+            "https://img.dreamkitsapp.com/kits/tijuana-home-2025-dls19.png"
+          ]
+        }
+      }
+    },
     "torino": {
       "name": "Torino FC",
       "logo": "https://dlskitshub.com/wp-content/uploads/Torino-FC-Logo-PNG-DLS.png",
@@ -11806,7 +11827,13 @@
       "name": "Turkey",
       "league": "international",
       "is_popular": true,
-      "seasons": {}
+      "seasons": {
+        "2024": {
+          "home": [
+            "https://img.dreamkitsapp.com/kits/turkey-home-2024-dls19.png"
+          ]
+        }
+      }
     },
     "udinese_calcio": {
       "name": "Udinese Calcio",
