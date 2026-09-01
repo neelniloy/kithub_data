@@ -125,6 +125,12 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/Atlanta-United-Logo-PNG-DLS.png",
     "name": "Atlanta United FC"
   },
+  "atlas": {
+    "is_popular": false,
+    "league": "liga_mx",
+    "logo": "",
+    "name": "Atlas FC"
+  },
   "atletico_madrid": {
     "is_popular": true,
     "league": "la_liga",
@@ -374,7 +380,7 @@
   "club_tijuana": {
     "is_popular": false,
     "league": "liga_mx",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1v2l9m1534764835.png",
+    "logo": "https://media.api-sports.io/football/teams/2288.png",
     "name": "Club Tijuana"
   },
   "colombia": {
@@ -458,7 +464,7 @@
   "egypt": {
     "is_popular": true,
     "league": "international",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y6187l1591990422.png",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png",
     "name": "Egypt"
   },
   "eintracht_frankfurt": {
@@ -581,12 +587,6 @@
     "logo": "https://imgur.com/m0Zpvx4.png",
     "name": "Genoa CFC"
   },
-  "georgia": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/34u9711591990400.png",
-    "name": "Georgie"
-  },
   "germany": {
     "is_popular": true,
     "league": "international",
@@ -620,7 +620,7 @@
   "go_ahead_eagles": {
     "is_popular": false,
     "league": "eredivisie",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tyvwuu1473503551.png",
+    "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6433.png",
     "name": "Go Ahead Eagles"
   },
   "granada_cf": {
@@ -820,6 +820,24 @@
     "league": "premier_league",
     "logo": "https://i.imgur.com/wLTNZc0.png",
     "name": "Liverpool FC"
+  },
+  "local_atlas": {
+    "is_popular": false,
+    "league": "others",
+    "logo": "",
+    "name": "Local Atlas"
+  },
+  "local_emelec": {
+    "is_popular": false,
+    "league": "others",
+    "logo": "",
+    "name": "Local Emelec"
+  },
+  "local_tigres": {
+    "is_popular": false,
+    "league": "others",
+    "logo": "",
+    "name": "Local Tigres"
   },
   "lorient": {
     "is_popular": true,
@@ -1256,7 +1274,7 @@
   "scotland": {
     "is_popular": false,
     "league": "others",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/5kivom1591990036.png",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
     "name": "Local Scotland"
   },
   "seattle_sounders": {
@@ -1298,7 +1316,7 @@
   "slovakia": {
     "is_popular": true,
     "league": "international",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/8b049d1591990022.png",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/njbw8n1717365638.png",
     "name": "Slovakia"
   },
   "southampton": {
@@ -1394,7 +1412,7 @@
   "turkey": {
     "is_popular": true,
     "league": "international",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o72p571591990264.png",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/70c4oo1591982459.png",
     "name": "Turkey"
   },
   "twente": {
