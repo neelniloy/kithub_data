@@ -5,28 +5,28 @@
     "argentine_primera": {
       "id": "argentine_primera",
       "name": "Argentine Primera Division",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png"
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/112.png"
     },
     "botola_pro_1": {
       "id": "botola_pro_1",
       "name": "Botola Pro 1",
-      "logo": "https://media.api-sports.io/football/leagues/200.png"
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/200.png"
     },
     "brasileirao": {
       "id": "brasileirao",
       "name": "Brasileirao",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png"
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/268.png"
     },
     "bundesliga": {
       "id": "bundesliga",
       "name": "Bundesliga",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
       "is_popular": true
     },
     "bundesliga_2": {
       "id": "bundesliga_2",
       "name": "Bundesliga 2",
-      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png"
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/146.png"
     },
     "caf": {
       "id": "caf",
@@ -56,17 +56,17 @@
     "eredivisie": {
       "id": "eredivisie",
       "name": "Eredivisie",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png"
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/57.png"
     },
     "indian_super_league": {
       "id": "indian_super_league",
       "name": "Indian Super League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/500px-Indian_Super_League_logo.svg.png"
+      "logo": "https://i.imgur.com/79VbZ4E.png"
     },
     "international": {
       "id": "international",
       "name": "International",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/77.png",
       "is_popular": true
     },
     "j_league": {
@@ -77,7 +77,7 @@
     "la_liga": {
       "id": "la_liga",
       "name": "La Liga",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
       "is_popular": true
     },
     "liga_1_indonesia": {
@@ -93,13 +93,13 @@
     "ligue_1": {
       "id": "ligue_1",
       "name": "Ligue 1",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
       "is_popular": true
     },
     "mls": {
       "id": "mls",
       "name": "Major League Soccer",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/130.png",
       "is_popular": true
     },
     "others": {
@@ -110,7 +110,7 @@
     "premier_league": {
       "id": "premier_league",
       "name": "Premier League",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
       "is_popular": true
     },
     "primeira_liga": {
@@ -127,13 +127,13 @@
     "serie_a": {
       "id": "serie_a",
       "name": "Serie A",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
       "is_popular": true
     },
     "super_lig": {
       "id": "super_lig",
       "name": "Super Lig",
-      "logo": "https://r2.thesportsdb.com/images/media/league/badge/h7xx231601671132.png",
+      "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/71.png",
       "is_popular": true
     }
   },
@@ -921,11 +921,13 @@
     },
     "atlas": {
       "name": "Atlas FC",
+      "logo": "https://media.api-sports.io/football/teams/2275.png",
       "league": "liga_mx",
       "seasons": {
         "2024": {
           "home": [
-            "https://img.dreamkitsapp.com/kits/atlas-home-2025-dls.png"
+            "https://img.dreamkitsapp.com/kits/atlas-home-2025-dls.png",
+            "https://img.dreamkitsapp.com/kits/atlas-home-2025-dls19.png"
           ]
         }
       }
@@ -2898,6 +2900,18 @@
           ],
           "third": [
             "https://dlskitshub.com/wp-content/uploads/Dream-League-Soccer-DLS-512%C3%97512-Elche-CF-Third-Kits.png"
+          ]
+        }
+      }
+    },
+    "emelec": {
+      "name": "Local Emelec",
+      "logo": "https://media.api-sports.io/football/teams/2298.png",
+      "league": "others",
+      "seasons": {
+        "2026": {
+          "home": [
+            "https://img.dreamkitsapp.com/kits/emelec-home-ligapro-betcris-2026-dls26.png"
           ]
         }
       }
@@ -4925,39 +4939,6 @@
           ],
           "third": [
             "https://i.imgur.com/UKkv35u.png"
-          ]
-        }
-      }
-    },
-    "local_atlas": {
-      "name": "Local Atlas",
-      "league": "others",
-      "seasons": {
-        "2024": {
-          "home": [
-            "https://img.dreamkitsapp.com/kits/atlas-home-2025-dls19.png"
-          ]
-        }
-      }
-    },
-    "local_emelec": {
-      "name": "Local Emelec",
-      "league": "others",
-      "seasons": {
-        "2026": {
-          "home": [
-            "https://img.dreamkitsapp.com/kits/emelec-home-ligapro-betcris-2026-dls26.png"
-          ]
-        }
-      }
-    },
-    "local_tigres": {
-      "name": "Local Tigres",
-      "league": "others",
-      "seasons": {
-        "2024": {
-          "home": [
-            "https://img.dreamkitsapp.com/kits/tigres-home-2025-dls.png"
           ]
         }
       }
@@ -7904,6 +7885,18 @@
           ],
           "home": [
             "https://i.imgur.com/dZ6a2oc.png"
+          ]
+        }
+      }
+    },
+    "tigres": {
+      "name": "Tigres UANL",
+      "logo": "https://i.imgur.com/0USYmuh.png",
+      "league": "liga_mx",
+      "seasons": {
+        "2024": {
+          "home": [
+            "https://img.dreamkitsapp.com/kits/tigres-home-2025-dls.png"
           ]
         }
       }

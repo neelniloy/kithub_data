@@ -128,7 +128,7 @@
   "atlas": {
     "is_popular": false,
     "league": "liga_mx",
-    "logo": "",
+    "logo": "https://media.api-sports.io/football/teams/2275.png",
     "name": "Atlas FC"
   },
   "atletico_madrid": {
@@ -479,6 +479,12 @@
     "logo": "https://dlskitshub.com/wp-content/uploads/DLS-Elche-CF-Logo-PNG.png",
     "name": "Elche CF"
   },
+  "emelec": {
+    "is_popular": false,
+    "league": "others",
+    "logo": "https://media.api-sports.io/football/teams/2298.png",
+    "name": "Local Emelec"
+  },
   "empoli": {
     "is_popular": true,
     "league": "serie_a",
@@ -820,24 +826,6 @@
     "league": "premier_league",
     "logo": "https://i.imgur.com/wLTNZc0.png",
     "name": "Liverpool FC"
-  },
-  "local_atlas": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Local Atlas"
-  },
-  "local_emelec": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Local Emelec"
-  },
-  "local_tigres": {
-    "is_popular": false,
-    "league": "others",
-    "logo": "",
-    "name": "Local Tigres"
   },
   "lorient": {
     "is_popular": true,
@@ -1378,6 +1366,12 @@
     "league": "caf",
     "logo": "https://i.imgur.com/ElymM2W.png",
     "name": "Espérance de Tunis"
+  },
+  "tigres": {
+    "is_popular": false,
+    "league": "liga_mx",
+    "logo": "https://i.imgur.com/0USYmuh.png",
+    "name": "Tigres UANL"
   },
   "tigres_uanl": {
     "is_popular": false,
